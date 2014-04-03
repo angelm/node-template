@@ -1,0 +1,28 @@
+{
+  "name": "node-template",
+  "version": "0.0.0",
+  "description": "Simple Node.js template to start building apps fast.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angelm/node-template.git"
+  },
+  "keywords": [
+    "node.js",
+    "template"
+  ],
+  "author": "Angel Municio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelm/node-template/issues"
+  },
+  "homepage": "https://github.com/angelm/node-template"
+}
